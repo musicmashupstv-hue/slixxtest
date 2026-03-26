@@ -1,0 +1,277 @@
+#EXTM3U
+
+# ============================================
+# PLUTO TV CHANNELS (working HLS streams)
+# ============================================
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogo.png" group-title="News",CBS News
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a6b92f6e22a617379789618/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogo.png" group-title="News",NBC News
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogo.png" group-title="News",ABC News
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6508be683a0d700008c534e4/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogo.png" group-title="News",CNN Headlines
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogo.png" group-title="Game Shows",Gameshow Central
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e54187aae660e00093561d6/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogo.png" group-title="Game Shows",Buzzr
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogo.png" group-title="Entertainment",MTV Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6793ea255225b515b4ba91a7/colorLogo.png" group-title="Entertainment",Albk Gems
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6793ea255225b515b4ba91a7/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogo.png" group-title="Entertainment",BounceXL
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6176fd25e83a5f0007a464c9/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogo.png" group-title="Movies",Hallmark Movies & More (Pluto)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551a8/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63335b193583440007c859fb/colorLogo.png" group-title="Movies",Lifetime Movies & More
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63335b193583440007c859fb/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65453f30085df200085883d8/colorLogo.png" group-title="Entertainment",Ion
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65453f30085df200085883d8/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogo.png" group-title="Entertainment",BET Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogo.png" group-title="Entertainment",Paramount Picks (verify channel ID)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/677d9adfa9a51b0008497fa0/colorLogo.png" group-title="Sports",UFC Knockouts
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/677d9adfa9a51b0008497fa0/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6549310a53fc97000838fcc9/colorLogo.png" group-title="Entertainment",Bravo Vault
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6549310a53fc97000838fcc9/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6000a5a9e767980007b497ca/colorLogo.png" group-title="Crime",A&E Crime 360
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6000a5a9e767980007b497ca/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogo.png" group-title="Entertainment",Stories By AMC
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62f2ce24f328e00007e7f55a/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/666b38a5efa2a10008b15b3a/colorLogo.png" group-title="Drama",BET Tyler Perry Drama
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/666b38a5efa2a10008b15b3a/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogo.png" group-title="Drama",TV Land Drama
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60f85644a9493e0007a1f035/colorLogo.png" group-title="Entertainment",BET Classics
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f85644a9493e0007a1f035/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogo.png" group-title="Kids",Nick Jr Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogo.png" group-title="Kids",Nickelodeon Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+# ============================================
+# ROKU CHANNEL (working HLS streams – extracted using same pattern as Pluto)
+# ============================================
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",Hallmark Movies & More (Roku)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/08973e5adc625d15aaa9c4c13cfb0307/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="" group-title="Western",Gunsmoke
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/ec9fd01d5fda09e9eda78ad0af2152d6/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="" group-title="Western",Xumo Westerns
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/da5fe296433459ec87379ce8f0b6d09a/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="" group-title="News",Today All Day
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/97a1c32a9f1057cf974a920a4279a801/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="" group-title="Shopping",HSN (Roku)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/0057bb20ce6c5717a5a025f2a73b682a/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Fox Soul
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/bdf6b34e48585f588789f7e7857a84a6/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="" group-title="Crime",Cops
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/1a50b7ba48389669b3e0bc6750fe6b31/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="" group-title="News",Newsmax
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/28844a800a4e54909eec9695aa3762b2/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",Lifetime Movies Love & Drama
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/8d8befc9060e861eb1bdd5b21c0403b3/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="" group-title="Kids",The Lego Channel
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/77761dc1928357d6809a2032fc2e17b8/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary",National Geographic History Channel
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ccfd62e01e58fbe9f2e4af3690e91fc/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",Acorn Tv Mysteries
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/fb8579bf16248ce630f42f129ed2e8d5/master.m3u8?deviceType=web&deviceMake=chrome&deviceModel=web&deviceVersion=unknown&appVersion=unknown&deviceId=unknown&deviceProfile=web&advertisingId=&sid=unknown
+
+# ============================================
+# XUMO CHANNELS (placeholders – real streams need extraction)
+# ============================================
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",50 Cent Action
+# Replace with actual stream URL (e.g., from network inspection)
+https://play.xumo.com/live-guide/50-cent-action
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",BBC Drama
+https://play.xumo.com/live-guide/bbc-drama
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",Law & Order
+https://play.xumo.com/live-guide/law-and-order
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",Ion Mystery
+https://play.xumo.com/live-guide/ion-mystery
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",Dateline NBC
+https://play.xumo.com/live-guide/dateline-24-7
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",TV One Crime and Justice (Xumo)
+https://play.xumo.com/live-guide/tv-one-crime-and-justice-fast-channel
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",ABC News (Xumo)
+https://play.xumo.com/live-guide/abc-news-live
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",Fox Weather
+https://play.xumo.com/live-guide/fox-weather
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",Cinevault
+https://play.xumo.com/live-guide/cinevault
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",Maverick Black Cinema
+https://play.xumo.com/live-guide/maverick-black-cinema
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",Get (Xumo)
+https://play.xumo.com/live-guide/get
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",ABC 20/20
+https://play.xumo.com/live-guide/20-20
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",NBA Throwback
+https://play.xumo.com/live-guide/the-nba-channel
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",WPT
+https://play.xumo.com/live-guide/world-poker-tour
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",Billiard TV
+https://play.xumo.com/live-guide/billiard-tv
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",ACCDN
+https://play.xumo.com/live-guide/acc-digital-network
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",Fox Sports Throwback
+https://play.xumo.com/live-guide/fox-sports
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",CBS Sports HQ
+https://play.xumo.com/live-guide/cbs-sports-hq
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",FanDuel TV
+https://play.xumo.com/live-guide/fanduel-tv-extra
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",NBC Sports Now
+https://play.xumo.com/live-guide/nbc-sports-now
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",HBO Boxing Throwback
+https://play.xumo.com/live-guide/hbo-boxing
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",Grit Xtra
+https://play.xumo.com/live-guide/grit-xtra
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",BBC Food
+https://play.xumo.com/live-guide/bbc-food
+
+#EXTINF:-1 group-title="Xumo (needs extraction)",Gusto TV
+https://play.xumo.com/live-guide/gustotv
+
+# ============================================
+# PHILO CHANNELS (placeholders – require subscription & authentication)
+# ============================================
+
+#EXTINF:-1 group-title="Philo (needs subscription)",Buzzr (Philo)
+https://www.philo.com/player/player/channel/Q2hhbm5lbDo2MDg1NDg4OTk2NDg0Mzk4MjA
+
+#EXTINF:-1 group-title="Philo (needs subscription)",AMC Thrillers
+https://www.philo.com/player/player/broadcast/QnJvYWRjYXN0OjYwODU0ODg5OTY4MDMxNTQ2OA
+
+#EXTINF:-1 group-title="Philo (needs subscription)",Anime HiDive
+https://www.philo.com/player/player/broadcast/QnJvYWRjYXN0OjYwODU0ODg5OTY4MDMxNTI4Mw
+
+#EXTINF:-1 group-title="Philo (needs subscription)",Bein Xtra Sports
+https://www.philo.com/player/player/broadcast/QnJvYWRjYXN0OjYwODU0ODg5OTY4MDI5NDQxNg
+
+#EXTINF:-1 group-title="Philo (needs subscription)",HSN (Philo)
+https://www.philo.com/player/player/broadcast/QnJvYWRjYXN0OjYwODU0ODg5OTY4MDI0NTA0Mw
+
+#EXTINF:-1 group-title="Philo (needs subscription)",MSG Sports Zone
+https://www.philo.com/player/player/broadcast/QnJvYWRjYXN0OjYwODU0ODg5OTY4MDM0NDk1Ng
+
+# ============================================
+# PLEX CHANNELS (placeholders – need extraction, often require Plex token)
+# ============================================
+
+#EXTINF:-1 group-title="Plex (needs extraction)",Get (Plex)
+https://watch.plex.tv/live-tv/channel/get
+
+#EXTINF:-1 group-title="Plex (needs extraction)",CW Forever
+https://watch.plex.tv/live-tv/channel/cw-forever
+
+#EXTINF:-1 group-title="Plex (needs extraction)",Filmrise Drama
+https://watch.plex.tv/live-tv/channel/filmrise-drama
+
+#EXTINF:-1 group-title="Plex (needs extraction)",MGM Action
+https://watch.plex.tv/live-tv/channel/mgm-presents-action
+
+#EXTINF:-1 group-title="Plex (needs extraction)",Dove
+https://watch.plex.tv/live-tv/channel/dove-channel
+
+#EXTINF:-1 group-title="Plex (needs extraction)",Filmrise Free Movies
+https://watch.plex.tv/live-tv/channel/filmrise-free-movies-3
+
+#EXTINF:-1 group-title="Plex (needs extraction)",TV One Crime and Justice (Plex)
+https://watch.plex.tv/live-tv/channel/tv-one-crime-and-justice
+
+#EXTINF:-1 group-title="Plex (needs extraction)",CBS News (Plex)
+https://watch.plex.tv/live-tv/channel/cbs-news
+
+#EXTINF:-1 group-title="Plex (needs extraction)",Vice News
+https://watch.plex.tv/live-tv/channel/vice-news
+
+#EXTINF:-1 group-title="Plex (needs extraction)",FIFA+
+https://watch.plex.tv/live-tv/channel/fifa-4
+
+#EXTINF:-1 group-title="Plex (needs extraction)",Fubo Sports Network
+https://watch.plex.tv/live-tv/channel/fubo-sports-network
+
+#EXTINF:-1 group-title="Plex (needs extraction)",HBCU Go
+https://watch.plex.tv/live-tv/channel/hbcugo-sports
+
+#EXTINF:-1 group-title="Plex (needs extraction)",21 Jump Street
+https://watch.plex.tv/live-tv/channel/21-jump-street-2
+
+#EXTINF:-1 group-title="Plex (needs extraction)",Get Comedy
+https://watch.plex.tv/live-tv/channel/get-comedy
+
+#EXTINF:-1 group-title="Plex (needs extraction)",Laff More
+https://watch.plex.tv/live-tv/channel/laff-more
+
+#EXTINF:-1 group-title="Plex (needs extraction)",CNN Originals
+https://watch.plex.tv/live-tv/channel/cnn-originals
+
+#EXTINF:-1 group-title="Plex (needs extraction)",BBC Game Shows
+https://watch.plex.tv/live-tv/channel/bbc-game-shows
+
+#EXTINF:-1 group-title="Plex (needs extraction)",Vice
+https://watch.plex.tv/live-tv/channel/vice-2
+
+#EXTINF:-1 group-title="Plex (needs extraction)",Toon Goggles
+https://watch.plex.tv/live-tv/channel/toon-goggles-2
+
+#EXTINF:-1 group-title="Plex (needs extraction)",Brat Tv
+https://watch.plex.tv/live-tv/channel/brat-tv
